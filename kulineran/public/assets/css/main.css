@@ -1,0 +1,51 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+	font-weight: bold;
+}
+
+.hero{
+	margin-left: 0px;
+}
+
+.hero img{
+	height: 450px;
+	width: auto;
+}
+
+.c1{
+	background-color: #FFCD2D;
+}
+
+.c1:hover{
+	background-color: #FFC100;	
+}
+
+.card-product{
+	border-radius: 15px;
+}
+
+.card-img-top{
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
+.breadcrumb{
+	background-color: transparent;
+	padding: 0;
+}
+
+.breadcrumb-item.active{
+	font-weight: bold;
+	color: black;
+}
+
+.breadcumb-item{
+	color:black!important;
+}
+
+.img-fluid{
+	border-radius: 15px;
+}
